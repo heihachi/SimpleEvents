@@ -1,0 +1,3 @@
+[submodule "SimpleKoTH"]
+	path = SimpleKoTH
+	url = git@github.com:heihachi/SimpleKoTH.git
